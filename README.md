@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @LFebruary
+- 👋 Hi, I’m Lyle February, you friendly-neighborhood I.T. Geek
 - 👀 I’m interested in 
-Mobile application development (Xamarin and Kotlin)
-REST API development (.NET)
-Desktop application development (using WPF)
+  - Mobile application development (Xamarin and Kotlin)
+  - REST API development (.NET)
+  - Desktop application development (using WPF)
+  - Data analysis
 - 🌱 I’m currently learning
-Flutter, WPF and .NET
+  - Flutter
+  - C# WPF
+  - .NET
 - 💞️ I’m looking to collaborate on
-existing mobile, web applications and start-up projects.
+  - Existing mobile and web applications
+  - Start-up projects
+  - Open-source projects
 - 📫 How to reach me
-Email: lfebdev@gmail.com
-LinkedIn: https://www.linkedin.com/in/lyle-february-7264561ab/
+  - Email: lfebdev@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/lyle-february-7264561ab/
