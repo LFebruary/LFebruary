@@ -2,7 +2,7 @@
 
 ## Short introduction
 
-![Introduction logo](https://i.ibb.co/ys5PVkq/Software-developer.png "The only constant in the technology industry is change - Marc Benioff")
+![Introduction logo](https://i.ibb.co/j83Kn8G/Github-Image.jpg "The only constant in the technology industry is change - Marc Benioff")
 
 
 
