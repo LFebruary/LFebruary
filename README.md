@@ -4,6 +4,8 @@
 
 ![Introduction logo](https://i.ibb.co/ys5PVkq/Software-developer.png "The only constant in the technology industry is change - Marc Benioff")
 
+
+
 I am an organized, dedicated software developer with 2 years of experience in development.
 
 This includes design, development and deployment.
