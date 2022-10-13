@@ -12,7 +12,7 @@ This includes design, development and deployment.
 
 I am energetic, logical, innovative, analytical and like to learn new skills continuously.
 
-Currently working for [Mediclinic SA](https://www.mediclinic.co.za/) as a junior developer.
+Currently working for [Mediclinic SA](https://www.mediclinic.co.za/) as a programmer.
 
 ## Purpose
 
