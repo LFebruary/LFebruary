@@ -6,7 +6,7 @@
 
 
 
-I am an organized, dedicated software developer with 2 years of experience in development.
+I am an organized, dedicated software developer with 3-4 years of experience in development.
 
 This includes design, development and deployment.
 
