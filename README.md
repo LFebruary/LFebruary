@@ -24,16 +24,6 @@ I will be creating/maintaining repositories on here with the intent of:
 
 **Some of these projects might not make sense or have commercial value necessarily, but will mainly serve as an example use-case/implementation**
 
-## Goals
-
-- [X] Create a readme for my profile
-- Push + upload the following:
-  - [ ] Xamarin project
-  - [ ] Kotlin project
-  - [ ] .NET project
-  - [ ] Clean architecture example project
-  - [ ] Flutter project
-
 ## Get in touch
 
 - 👔 &nbsp; Stalk my [LinkedIn](https://za.linkedin.com/in/lyle-february-7264561ab)
