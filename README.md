@@ -4,15 +4,13 @@
 
 ![Introduction logo](https://i.ibb.co/j83Kn8G/Github-Image.jpg "The only constant in the technology industry is change - Marc Benioff")
 
-
-
 I am an organized, dedicated software developer with 3-4 years of experience in development.
 
 This includes design, development and deployment.
 
 I am energetic, logical, innovative, analytical and like to learn new skills continuously.
 
-Currently working for [Mediclinic SA](https://www.mediclinic.co.za/) as a programmer.
+Currently working for [DotDigital](https://dotdigital.com/) as a software engineer.
 
 ## Purpose
 
